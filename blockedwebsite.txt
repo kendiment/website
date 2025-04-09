@@ -1,0 +1,11 @@
+# List of websites to be blocked
+www.example.com
+www.socialmedia.com
+www.videostreaming.com
+www.gamingplatform.com
+www.onlinegambling.com
+www.adultcontent.com
+www.fake-news-source.com
+www.malicious-site.com
+www.unwanted-ads.com
+www.timewaster.com
